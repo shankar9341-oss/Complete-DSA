@@ -23,4 +23,12 @@
 | ------- |
 | [0027-remove-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
