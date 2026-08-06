@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
@@ -19,6 +20,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3731-find-missing-elements) |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
@@ -70,4 +73,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
