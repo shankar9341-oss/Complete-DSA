@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
