@@ -8,6 +8,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
@@ -17,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3731-find-missing-elements) |
@@ -24,6 +26,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3731-find-missing-elements) |
