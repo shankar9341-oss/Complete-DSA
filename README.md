@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0228-summary-ranges) |
@@ -34,12 +35,14 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
 ## Design
@@ -91,5 +94,10 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
