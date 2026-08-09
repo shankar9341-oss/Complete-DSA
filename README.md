@@ -24,6 +24,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -111,4 +113,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0011-container-with-most-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
