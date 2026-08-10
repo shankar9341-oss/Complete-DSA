@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -66,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
