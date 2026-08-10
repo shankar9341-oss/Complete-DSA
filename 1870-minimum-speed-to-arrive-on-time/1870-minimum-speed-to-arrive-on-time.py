@@ -15,9 +15,9 @@ class Solution:
     def speedcatch(self,dist,hour,speed):
         time = 0.0
         for i in range(len(dist)):
-            t = dist[i] // speed
+            t = dist[i] / speed
             if i != len(dist)-1:
-                time += math.ceil(dist[i] / speed)
+                time += int(-(-t//1))
             else:
-                time += dist[i] / speed
+                time += t
         return time <= hour
