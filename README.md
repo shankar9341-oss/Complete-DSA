@@ -18,6 +18,7 @@
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -78,6 +79,7 @@
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
