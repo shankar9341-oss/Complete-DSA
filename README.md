@@ -25,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -46,6 +47,7 @@
 | [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -130,4 +133,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
