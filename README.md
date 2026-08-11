@@ -72,6 +72,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
