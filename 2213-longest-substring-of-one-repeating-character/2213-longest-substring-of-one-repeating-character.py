@@ -13,6 +13,7 @@ class ST:
         left = self.build(l, mid, node * 2, s)
         right = self.build(mid + 1, r, node * 2 + 1, s)
         self.st[node] = self.merge(left, right)
+
         return self.st[node]
 
     def merge(self, left, right):
@@ -22,6 +23,7 @@ class ST:
         pref = lpref
         suf = rsuf
         best = max(lbest, rbest)
+        
         if rchar == rlchar:
             best = max(best, lsuf + rpref)
             if lpref == llen: 
@@ -48,7 +50,6 @@ class ST:
 class Solution:
     def longestRepeating(self, s: str, queryCharacters: str, queryIndices: List[int]) -> List[int]:
         n = len(s)
-        # q = len(queryCharacters)
         st = ST(s)
         res = []
 
