@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0724-find-pivot-index) |
