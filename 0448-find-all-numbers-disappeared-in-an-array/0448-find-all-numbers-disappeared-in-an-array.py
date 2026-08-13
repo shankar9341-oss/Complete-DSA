@@ -6,7 +6,7 @@ class Solution:
                 nums[idx] = -nums[idx]
         
         res = []
-        for i in range(len(nums)):
-            if nums[i] > 0:
+        for i,n in enumerate(nums):
+            if n > 0:
                 res.append(i + 1)
         return res
