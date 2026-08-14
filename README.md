@@ -47,6 +47,7 @@
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
