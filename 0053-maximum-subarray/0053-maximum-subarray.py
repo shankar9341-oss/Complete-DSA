@@ -10,13 +10,13 @@ class Solution:
 
 
         max_sum = float("-Inf")
-        sum = 0
+        sum1 = 0
         for n in nums:
-            sum += n
-            if sum > max_sum:
-                max_sum = sum
-            if sum < 0:
-                sum = 0
+            sum1 += n
+            if sum1 > max_sum:
+                max_sum = sum1
+            if sum1 < 0:
+                sum1 = 0
         return max_sum
 
             
