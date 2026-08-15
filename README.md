@@ -32,6 +32,7 @@
 | [0896-monotonic-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
