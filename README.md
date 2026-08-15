@@ -46,6 +46,7 @@
 | [0205-isomorphic-strings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
@@ -95,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0709-to-lower-case) |
@@ -185,6 +187,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
