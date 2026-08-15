@@ -1,12 +1,8 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        hash = {}
-        
-        for char in magazine:
-            hash[char] = 1 + hash.get(char,0) 
-
-        for char in ransomNote:
-            if char not in hash or hash[char] <= 0:
+        if len(ransomNote) > len(magazine):
+            return False
+        for char in set(ransomNote):
+            if magazine.count(char) < ransomNote.count(char):
                 return False
-            hash[char] -= 1
         return True
