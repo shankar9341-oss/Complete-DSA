@@ -10,3 +10,4 @@ class Solution:
                 return True
             sett.add(nums[right])
         return False
+        
