@@ -19,6 +19,7 @@
 | [0152-maximum-product-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -139,6 +141,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
