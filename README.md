@@ -33,6 +33,7 @@
 | [0896-monotonic-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -118,6 +119,7 @@
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -180,6 +182,7 @@
 | [0152-maximum-product-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
