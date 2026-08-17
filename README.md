@@ -116,6 +116,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0189-rotate-array) |
@@ -256,4 +257,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
