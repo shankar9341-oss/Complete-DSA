@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0016-3sum-closest) |
@@ -46,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
