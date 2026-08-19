@@ -90,6 +90,7 @@
 | [0088-merge-sorted-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 ## Stack
@@ -132,6 +133,7 @@
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
@@ -144,6 +146,7 @@
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
