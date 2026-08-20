@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0152-maximum-product-subarray) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
