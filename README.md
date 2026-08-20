@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0205-isomorphic-strings) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
@@ -112,6 +115,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0383-ransom-note) |
