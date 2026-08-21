@@ -21,6 +21,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0069-sqrtx) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
